@@ -42,7 +42,7 @@ header, footer, nav, article, section, figure, figcaption, form,
 3. outline elements:
 - h1 to h6 Defines the outline for your page
 - p Defines a paragraph of text
-- <dl> Defines a Dictionary List
+- /<dl/> Defines a Dictionary List
 - <ol> and <ul> Define ordered and unordered lists, <li> defines either
 - <table> Defines a table for displaying data
 - <q> or <blockquote> represent quote
