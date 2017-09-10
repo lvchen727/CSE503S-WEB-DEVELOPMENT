@@ -1,4 +1,4 @@
-#HTML (HyperText Makeup Language)
+# HTML (HyperText Makeup Language)
 
 ## not a programming language, but define the contents of webpage
 
