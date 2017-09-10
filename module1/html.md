@@ -115,6 +115,7 @@ put this in <head> tag
 4. *name* attribute
 If the name attribute is omitted, the data of that input field will not be sent at all.
 5. grouping form data with <fieldset>
+
 ```html
 <form action="/action_page.php">
   <fieldset>
