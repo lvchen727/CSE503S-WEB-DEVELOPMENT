@@ -20,8 +20,8 @@
 - Firefox: Command-U
 
 ## HTML is composed of Tags
-- 1. content element: <tagname> Contents </tagname>
-- 2. void element: <tagname />
+1. content element: <tagname> Contents </tagname>
+2. void element: <tagname />
 - both elements can have attributes to further define functionality
 
 ```html
@@ -34,27 +34,27 @@
 header, footer, nav, article, section, figure, figcaption, form,
 
 2. external media:
-* <iframe src="source"> Represents a little window on your page into which source is loaded; source could be a PDF document, for example, or an entire other web page
-* <link rel="what" type="mime" href="source" /> Defines an external document what located at source with the mime type mime that should be loaded into your HTML page. Note: <link /> does NOT define a hyperlink! <a> is for that. Used most commonly for including CSS stylesheets.
-* <img src="source" alt="text" /> Defines an image located at source that has a textual representation of text
-* audio, video, canvas
+- <iframe src="source"> Represents a little window on your page into which source is loaded; source could be a PDF document, for example, or an entire other web page
+- <link rel="what" type="mime" href="source" /> Defines an external document what located at source with the mime type mime that should be loaded into your HTML page. Note: <link /> does NOT define a hyperlink! <a> is for that. Used most commonly for including CSS stylesheets.
+- <img src="source" alt="text" /> Defines an image located at source that has a textual representation of text
+- audio, video, canvas
 
 3. outline elements:
-* <h1> to <h6> Defines the outline for your page
-* <p> Defines a paragraph of text
-* <dl> Defines a Dictionary List
-* <ol> and <ul> Define ordered and unordered lists, <li> defines either
-* <table> Defines a table for displaying data
-* <q> or <blockquote> represent quote
+- <h1> to <h6> Defines the outline for your page
+- <p> Defines a paragraph of text
+- <dl> Defines a Dictionary List
+- <ol> and <ul> Define ordered and unordered lists, <li> defines either
+- <table> Defines a table for displaying data
+- <q> or <blockquote> represent quote
 
 4. miscellaneous elements
-* <a href="destination"> a hyperlink to destination
-* <br/> line break
-* <button> <code>
-* <output> result of calculation
-* <pre> pre-formatted text with whitespace preserved
-* <script>
-* <div> block section, <span> inline section, both for styling,
+- <a href="destination"> a hyperlink to destination
+- <br/> line break
+- <button> <code>
+- <output> result of calculation
+- <pre> pre-formatted text with whitespace preserved
+- <script>
+- <div> block section, <span> inline section, both for styling,
 
 ## Quick and easy layout
 ```html
