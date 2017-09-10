@@ -41,20 +41,20 @@ header, footer, nav, article, section, figure, figcaption, form,
 
 3. outline elements:
 - `<h1>` to `<h6>` Defines the outline for your page
-- p Defines a paragraph of text
+- `<p>` Defines a paragraph of text
 - `<dl>` Defines a Dictionary List
 - `<ol>` and `<ul>` Define ordered and unordered lists, `<li>` defines either
 - `<table>` Defines a table for displaying data
 - `<q>` or `<blockquote>` represent quote
 
 4. miscellaneous elements
-- <a href="destination"> a hyperlink to destination
-- <br/> line break
-- <button> <code>
-- <output> result of calculation
-- <pre> pre-formatted text with whitespace preserved
-- <script>
-- <div> block section, <span> inline section, both for styling,
+- `<a href="destination">` a hyperlink to destination
+-` <br/>` line break
+- `<button>` `<code>`
+- `<output>` result of calculation
+- `<pre>` pre-formatted text with whitespace preserved
+- `<script>`
+- `<div>` block section, `<span>` inline section, both for styling,
 
 ## Quick and easy layout
 ```html
