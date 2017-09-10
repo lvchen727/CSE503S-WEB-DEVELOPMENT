@@ -39,7 +39,7 @@ header, footer, nav, article, section, figure, figcaption, form,
 * <img src="source" alt="text" /> Defines an image located at source that has a textual representation of text
 * audio, video, canvas
 
-3. outline elements
+3. outline elements:
 * <h1> to <h6> Defines the outline for your page
 * <p> Defines a paragraph of text
 * <dl> Defines a Dictionary List
