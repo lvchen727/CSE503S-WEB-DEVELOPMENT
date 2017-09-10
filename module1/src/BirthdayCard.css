@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+@font-face {
+    font-family: DFGL1B;
+    src: url(DFGL1B.TTF);
+}
+body{
+	background-image: url(sunflower.jpg);
+  background-color: #FFB6C1;
+  font-family: 'Tangerine', serif;
+}
+h1{
+  font: 80px/80px	DFGL1B;
+	color: #008000;
+	text-shadow: 6px 4px 	#FFA500;
+	text-align: center;
+}
+p{
+  font: 40px/40px Tangerine;
+	color: #008000;
+	text-align: center;
+  font-weight: bold;
+}
+img{
+	opacity: 1;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid transparent;
+}
+audio{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+footer{
+  display: block;
+}
+form{
+	font: 24px/24px Tangerine;
+	color: #000080;
+	text-align: center;
+  font-weight: bold;
+}
